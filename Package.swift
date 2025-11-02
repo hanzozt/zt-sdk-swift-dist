@@ -2,8 +2,8 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 import PackageDescription
 
-let version = "0.41.25"
-let checksum = "df3ed4735c7382c23e01dcefc8cdaeb0d4d99f1f9a092b24a2939126caf40f68"
+let version = "0.41.26"
+let checksum = "b6f7aa19ae091ce30a7224d7e19d91571fd2859ea6901934e1ddf5eaf343dc9a"
 
 let package = Package(
     name: "CZiti",
