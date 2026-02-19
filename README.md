@@ -1,8 +1,8 @@
-# ziti-sdk-swift-dist
-Swift Package Repository for binary distribution of [hanzozt/ziti-sdk-swift](https://github.com/hanzozt/ziti-sdk-swift/)'s binary CZiti.xcframework
+# zt-sdk-swift-dist
+Swift Package Repository for binary distribution of [hanzozt/zt-sdk-swift](https://github.com/hanzozt/zt-sdk-swift/)'s binary CZiti.xcframework
 
 ### Add Package Dependency
-Follow [Apple's instructions](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app), and enter https://github.com/hanzozt/ziti-sdk-swift-dist.git for the repository URL
+Follow [Apple's instructions](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app), and enter https://github.com/hanzozt/zt-sdk-swift-dist.git for the repository URL
 
 ### Add Additional Dependencies
 
@@ -18,6 +18,6 @@ In XCode TARGETS **Signiings & Capabilities**:
 Please use these community resources for getting help. 
 - Read the [docs](https://docs.hanzozt.dev/docs/learn/introduction/)
 - Participate in discussion on [Discourse](https://community.hanzozt.dev/)
-- Use GitHub [issues](https://github.com/hanzozt/ziti-sdk-swift/issues) for tracking bugs and feature requests.
+- Use GitHub [issues](https://github.com/hanzozt/zt-sdk-swift/issues) for tracking bugs and feature requests.
 
 Copyright NetFoundry Inc.
