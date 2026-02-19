@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CZiti",
-            url: "https://github.com/openziti/ziti-sdk-swift/releases/download/\(version)/CZiti.xcframework.zip",
+            url: "https://github.com/hanzozt/ziti-sdk-swift/releases/download/\(version)/CZiti.xcframework.zip",
             checksum: checksum)
     ]
 )
